@@ -1,0 +1,7 @@
+{
+  "name": "nossoMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
